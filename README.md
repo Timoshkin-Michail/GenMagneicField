@@ -1,2 +1,2 @@
-# Magnetic Field Evolution
+# Magnetic VectorFunction Evolution
 Процесс генерации или затухания магнитного поля
